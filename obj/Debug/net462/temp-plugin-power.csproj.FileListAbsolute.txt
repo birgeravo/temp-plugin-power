@@ -1,0 +1,6 @@
+/home/codespace/temp-plugin-power/obj/Debug/net462/temp-plugin-power.csproj.AssemblyReference.cache
+/home/codespace/temp-plugin-power/obj/Debug/net462/temp-plugin-power.GeneratedMSBuildEditorConfig.editorconfig
+/home/codespace/temp-plugin-power/obj/Debug/net462/temp-plugin-power.AssemblyInfoInputs.cache
+/home/codespace/temp-plugin-power/obj/Debug/net462/temp-plugin-power.AssemblyInfo.cs
+/home/codespace/temp-plugin-power/obj/Debug/net462/temp-plugin-power.csproj.CoreCompileInputs.cache
+/home/codespace/temp-plugin-power/obj/Debug/net462/temp-plugin-power.sourcelink.json
